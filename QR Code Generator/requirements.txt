@@ -1,0 +1,3 @@
+qrcode
+Pillow
+tk # Only needed if using tkinter GUI, else remove
