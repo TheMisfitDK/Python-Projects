@@ -1,4 +1,4 @@
-****## 🐍 Python Projects by TheMisfitDK
+## 🐍 Python Projects by TheMisfitDK
 ---
 ## 📦 What You'll Find Here
 - ✅ Beginner Python Scripts
@@ -24,4 +24,3 @@ cd Python-Projects
 python your_file.py
 
 ---
-****
