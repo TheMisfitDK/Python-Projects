@@ -27,3 +27,7 @@ This project is a **basic GUI calculator** that allows users to perform simple m
 - 🧰 Tkinter (standard GUI package)
 
 ---
+
+## 🖼️ GUI Preview
+
+![image](https://github.com/user-attachments/assets/57bc8800-f09c-42ac-9d85-4a1ef6d730cf)
